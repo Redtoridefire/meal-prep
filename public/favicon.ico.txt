@@ -1,0 +1,2 @@
+This is a placeholder for favicon.ico
+The public directory is for static assets
